@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="estudio andrea">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules-20230727T174721Z-001.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app-20230727T174719Z-001.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
